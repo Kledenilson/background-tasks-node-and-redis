@@ -24,6 +24,7 @@ Redis
 * Rodar o `yarn` ou `npm install`
 * Copiar o arquivo .env.example e criar o arquivo .env com suas credenciais de e-mail e do redis
 * Rodar `yarn start` e `yarn queue` para startar o servidor local
+* Acesse o Bull Dashboard: `{servidor:porta}/admin/queues`
 
 
 
